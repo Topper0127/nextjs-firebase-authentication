@@ -1,5 +1,5 @@
 # My Course Platform
-
+Hello Everyone
 [![Build Status](https://travis-ci.org/rwieruch/nextjs-firebase-authentication.svg?branch=master)](https://travis-ci.org/rwieruch/nextjs-firebase-authentication) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/nextjs-firebase-authentication.svg)](https://greenkeeper.io/)
 
 - [Demo](https://courses.robinwieruch.de/)
